@@ -13,4 +13,5 @@ dependencies = [
     "uvicorn>=0.54.0",
     "sentence-transformers>=6.1.0",
     "umap-learn>=0.5.12",
+    "mlx-lm>=0.32",
 ]
